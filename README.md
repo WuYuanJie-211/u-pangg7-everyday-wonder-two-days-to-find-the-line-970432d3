@@ -1,15 +1,11 @@
 # Everyday Wonder, Two Days to Find the Line
 
-[![Rank](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/rank)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
-[![Reward](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/reward)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
-[![Bounty](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
+[![make.fun](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
+[![Rank](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/WuYuanJie-211/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/rank.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
+[![Reward](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/WuYuanJie-211/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/reward.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
 
-A one-line entry for the make.fun bounty [Everyday Wonder, Two Days to Find the Line](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3): a single sentence, under 200 characters, catching a small moment of everyday wonder.
+One line about an ordinary morning bus ride: the card reader beeps green before I have decided where I am going, and for one stop the city trusts me more than I trust myself.
 
-## The line
+The entry is a single sentence of 147 characters, written by `main.ts` with a one-sentence gate and a read-back check.
 
-> I tapped my bus card and the reader beeped green before I knew where I was going, and for one stop the city trusted me more than I trusted myself.
-
-## Run it
-
-Run `node main.ts` and it writes the sentence to `/output/entry.txt`. The program checks the line first — exactly one sentence, one terminal period, no `!` or `?`, under 200 characters — and refuses to write an invalid entry. The output file is written directly with mode 0644, so repeated runs produce byte-identical results.
+Run `node main.ts` to write the line to `/output/entry.txt`.
